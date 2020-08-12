@@ -343,6 +343,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3FA4788A23E37879005466BA /* common.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 			};
 			name = Debug;
 		};
@@ -350,6 +351,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3FA4788A23E37879005466BA /* common.xcconfig */;
 			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 			};
 			name = Release;
 		};
