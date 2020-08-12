@@ -44,8 +44,8 @@ do_configure() {
                  --disable-javac-server \
                  --disable-full-docs \
                  --disable-manpages \
-                 --with-vendor-name="Apple Developer Technologies" \
-                 --with-macosx-bundle-id-base=com.apple.dt.java \
+                 --with-vendor-name="iterate GmbH" \
+                 --with-macosx-bundle-id-base=ch.iterate.openjdk \
                  --with-version-opt="" \
                  --with-sdk-name=${SDK_NAME} \
                  --with-macosx-codesign-identity="${CODE_SIGN_IDENTITY}" \
